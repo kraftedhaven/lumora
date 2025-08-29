@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "lumora",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "openapi-template-db",
+      "database_id": "efcb8ea6-ffd1-4c0b-9710-a7380fa92c41"
+    }
+  ]
+}
